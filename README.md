@@ -1,4 +1,4 @@
-# 💰 DagluBank (DBank)
+#  DagluBank (DBank)
 
 A decentralized banking dApp built on the Internet Computer using Motoko and React.
 
@@ -52,13 +52,13 @@ dfx identity use ruthuja02
 ```bash
 dfx cycles redeem-faucet-coupon F943F-FD9EA-7E46D --ic
 ```
-✅ Redeemed 10 Trillion Cycles
+ Redeemed 10 Trillion Cycles
 
 ✅ Step 3: Deploy to IC Mainnet
 ```bash
 dfx deploy --ic
 ```
-✅ Project deployed to the Internet Computer
+ Project deployed to the Internet Computer
 
 ---
 
