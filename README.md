@@ -73,7 +73,7 @@ dfx deploy --ic
 - `src/DBank_frontend/`: React-based frontend
 - `dfx.json`: Configuration file
 - `package.json`: Project dependencies
-- `README.md`: You are here
+- `README.md`: Project manual and instructions.
 
 ## 🙌 Credits & Community
 
